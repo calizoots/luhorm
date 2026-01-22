@@ -1,0 +1,19 @@
+[package]
+name = "luhorm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# sqlparser = "0.6"
+
+luhtwin = "0.1.4"
+luhcore = "0.0.1"
+convert_case = "0.10"
+async-trait = "0.1"
+sha2 = "0.10"
+sqlx = { version = "0.8.6", features = ["sqlite", "postgres", "runtime-tokio-native-tls", "macros", "chrono", "any", "rust_decimal"] }
+rand = "0.9"
+uuid = { version = "1.19.0", features = ["v4"] }
+chrono = { version = "0.4", features = ["serde"] }
+serde_json = "1.0.1"
+tokio = { version = "1", features = ["full"] }
