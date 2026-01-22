@@ -1,7 +1,7 @@
 # luhORM
-[<img alt="github" src="https://img.shields.io/badge/github-calizoots/luhorm-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/calizoots/luhtwin)
-[<img alt="crates.io" src="https://img.shields.io/crates/v/luhorm.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/luhtwin)
-[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-luhorm-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/luhtwin)
+[<img alt="github" src="https://img.shields.io/badge/github-calizoots/luhorm-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/calizoots/luhorm)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/luhorm.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/luhorm)
+[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-luhorm-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/luhorm)
 
 A compile-time ORM that generates type-safe database code through build-time introspection.
 Supporting Sqlite and Postgresql out the box but extensible to another database
