@@ -13,6 +13,11 @@
 //!
 //! ## Quick Start
 //!
+//! ### Prerequisites
+//!
+//! - must have rand & chrono in Cargo.toml
+//! - must have sqlx
+//!
 //! 1. Add to `build.rs`:
 //! ```no_run
 //! use luhorm::Codegen;

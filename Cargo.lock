@@ -845,7 +845,7 @@ checksum = "b6fa300109f39254de239346fb8730331f99f07048670bbdc235ab936de4b7b4"
 
 [[package]]
 name = "luhorm"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "async-trait",
  "chrono",
