@@ -1,4 +1,10 @@
-//! # LuhORM
+//! [![github]](https://github.com/calizoots/luhorm)&ensp;[![crates-io]](https://crates.io/crates/luhorm)&ensp;[![docs-rs]](https://docs.rs/luhorm)
+//!
+//! [github]: https://img.shields.io/badge/github-calizoots/luhorm-8da0cb?style=for-the-badge&labelColor=555555&logo=github
+//! [crates-io]: https://img.shields.io/crates/v/luhorm.svg?style=for-the-badge&color=fc8d62&logo=rust
+//! [docs-rs]: https://img.shields.io/badge/docs.rs-luhorm-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs
+//!
+//! # luhORM
 //!
 //! A compile-time ORM that generates type-safe database code through build-time introspection.
 //! Supporting Sqlite and Postgresql out the box but extensible to another database see [`Backend`] trait
